@@ -1,0 +1,63 @@
+Executive Overview – Profitability Dashboard
+This Tableau dashboard presents a comprehensive profitability analysis across North America, offering strategic insights into sales performance, customer behavior, and regional trends from 2013 to 2016.
+
+🔑 Key Metrics
+At the top, seven high-impact KPIs summarize business health:
+
+Total Sales: $2.32M
+
+Total Profit: $292K
+
+Profit Ratio: 12.6%
+
+Profit per Order: $57.19
+
+Sales per Customer: $1,015.97
+
+Average Discount: 15.54%
+
+Quantity Sold: 38,654 units
+
+These metrics provide a quick snapshot of profitability efficiency and customer value.
+
+🗺️ Regional Profitability Map
+A color-coded map visualizes profit ratio by state/province, highlighting geographic disparities:
+
+Blue regions indicate positive profitability.
+
+Orange regions signal negative margins.
+
+Interactive filters allow users to adjust region, date range, and profit ratio thresholds.
+
+This map enables decision-makers to pinpoint underperforming areas and explore regional strategy.
+
+📈 Monthly Sales Trends
+Two area charts break down sales performance over time:
+
+By Segment: Consumer, Corporate, and Home Office
+
+By Product Category: Furniture, Office Supplies, Technology
+
+Each chart reveals seasonal patterns, segment growth, and category-level profitability, with color overlays reflecting profit health.
+
+🎛️ Interactive Filters
+Users can refine the dashboard using:
+
+Region selector
+
+Date range slider
+
+Profit ratio filter
+
+Color legend for profitability
+
+These controls enhance user-driven exploration and scenario analysis.
+
+✨ Portfolio Note
+This dashboard showcases:
+
+Advanced Tableau design with layered interactivity
+
+Strategic KPI storytelling
+
+Regional and temporal analysis for executive decision-making
